@@ -66,7 +66,7 @@ const questions = [
     { question: "T junction?", answer: "simpang 3" },
     { question: "simpang 3?", answer: "T junction" },
     { question: "take a round trip?", answer: "pulang pergi" }, 
-    { question: "pulang ergi?", answer: "take a round trip" },
+    { question: "pulang pergi?", answer: "take a round trip" },
     { question: "tiny path?", answer: "gang kecil" },
     { question: "gang kecil?", answer: "tiny path" },
     { question: "traffic jam?", answer: "macet" },
